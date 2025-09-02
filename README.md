@@ -2,6 +2,8 @@
 <div>
 <img src="ospf.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
 </div>
+إعدادات بروتوكول الـ OSPF على الشبكة السريعة
+
 مشروع تكوين شبكة باستخدام OSPF Routing
 
 1️⃣ الهدف من المشروع
