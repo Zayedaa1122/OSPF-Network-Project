@@ -1,4 +1,4 @@
-
+![VLAN Diagram](لقطة شاشة 2025-08-29 051535.png)
 <div>
 <img src="ospf.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
 </div>
