@@ -1,6 +1,6 @@
 
 <div>
-<img src="ospf3.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
+<img src="ospf.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
 </div>
 # مشروع تكوين شبكة باستخدام OSPF
 
