@@ -1,4 +1,4 @@
-
+![VLAN Diagram](Ss.png)
 <div>
 <img src="ospf.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
 </div>
