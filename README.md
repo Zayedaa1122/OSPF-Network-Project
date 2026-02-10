@@ -1,3 +1,12 @@
+## Network Diagrams
+
+### OSPF Topology
+![OSPF topology](ospf.png)
+
+### Another Diagram
+![Screenshot](Ss.png)
+
+
 ![VLAN Diagram](Ss.png)
 <div>
 <img src="ospf.png" alt="VLAN Diagram" style="width:120%; height:auto;"/>
